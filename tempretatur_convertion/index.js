@@ -6,7 +6,7 @@ let temp;
 function convert(){
     if(toFahrenheit.checked){
        temp = Number(textBox.value);
-       temp = temp * 5/9 + 32;
+       temp = temp * 9/5 + 32;
        result.textContent = temp.toFixed(1) + "F";
     }
     else if(toCelsius.checked){  
