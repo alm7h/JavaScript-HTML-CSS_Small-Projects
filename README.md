@@ -2,7 +2,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![No dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
 A collection of small web applications built with plain (vanilla) **JavaScript, HTML and CSS**. They use no frameworks, no libraries and no build tools. Each project focuses on one core part of front-end development, from DOM manipulation and event handling to asynchronous requests against a real REST API.
